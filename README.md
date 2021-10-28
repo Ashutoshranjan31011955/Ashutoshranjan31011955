@@ -1,5 +1,5 @@
-### Hi there 👋
-<h2>Ashutosh here ..</h2>
+
+<h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <br/>
 
 `Get in touch with me`

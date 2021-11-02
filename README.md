@@ -1,6 +1,13 @@
 ### Hi there 👋
 <h2>Ashutosh here ..</h2>
-<br/>
+
+
+- 🌱 I’m currently learning Python & Linux as well as Data Science.
+- 🤔 I’m looking for help with DSA.
+- 😄 Pronouns: (His/Him)
+- ⚡ Fun fact: I am from mechnical background, still am fascinated towards Computer Science.
+
+<br />
 
 `Get in touch with me`
 

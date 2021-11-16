@@ -20,7 +20,7 @@
 <hr>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=Ashutoshranjan31011955&custom_title=ashutosh%27s%20Contribution%20Graph&theme=chartreuse-dark)
+![](https://activity-graph.herokuapp.com/graph?username=Ashutoshranjan31011955&custom_title=Ashutosh%27s%20Contribution%20Graph&theme=chartreuse-dark)
 
 
 <!--

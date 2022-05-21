@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <br/>
 
+
+- 🌱 I’m currently learning Python & Data Science & Linux as well.
+- 🤔 I’m looking for help with DSA.
+- 😄 Pronouns: (He/His)
+- ⚡ Fun fact: I am from Mech. background still fascinated towards IT world...
+<br />
+
 `Get in touch with me`
 
 <a href="https://www.linkedin.com/in/ashutosh-ranjan-22b155218/">
@@ -13,7 +20,7 @@
 <hr>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=Ashutoshranjan31011955&custom_title=ashutosh%27s%20Contribution%20Graph&theme=chartreuse-dark)
+![](https://activity-graph.herokuapp.com/graph?username=Ashutoshranjan31011955&custom_title=Ashutosh%20Contribution%20Graph&theme=chartreuse-dark)
 
 
 <!--
